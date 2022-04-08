@@ -4,10 +4,10 @@
 
 Содержание:
 
-- Исследование надёжности заёмщиков (кредитный скорринг) / Credit analysis
-- Отток клиентов из банка / Customer exited
-- Машинное обучение в бизнесе (Выбор скважины для нефтедобывающей компании) / Oil company modelling
-- Прототип модели машинного обучения для промышленного предприятия / Gold recovery
+- [Исследование надёжности заёмщиков (кредитный скорринг) / Credit analysis](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Credit-Analysis)
+- [Отток клиентов из банка / Customer exited](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Customer-Exited)
+- [Машинное обучение в бизнесе (Выбор скважины для нефтедобывающей компании) / Oil company modelling](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Oil-company-modelling)
+- [Прототип модели машинного обучения для промышленного предприятия / Gold recovery](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Gold-recovery)
 
 
 Credit analysis
