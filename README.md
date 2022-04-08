@@ -1,8 +1,7 @@
 # Yandex-Praktikum
 
-В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума
+В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума:
 
-Содержание:
 
 - Исследование надёжности заёмщиков (кредитный скорринг) / [Credit analysis](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Credit-Analysis)
 - Отток клиентов из банка / [Customer exited](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Customer-Exited)
@@ -10,7 +9,7 @@
 - Прототип модели машинного обучения для промышленного предприятия / [Gold recovery](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Gold-recovery)
 
 
-
+### Аннотация
 
 [Credit analysis](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Credit-Analysis)
 <br>Предобработка данных
