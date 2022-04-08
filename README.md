@@ -4,9 +4,9 @@
 
 Содержание:
 
-Предобработка данных - Credit analysis
-Обучение с учителем Customer exited
-Машинное обучение в бизнесе Oil company modelling
+- Предобработка данных - Credit analysis
+- Обучение с учителем Customer exited
+- Машинное обучение в бизнесе Oil company modelling
 
 
 Credit analysis
