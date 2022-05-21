@@ -8,6 +8,7 @@
 - Машинное обучение в бизнесе (Выбор скважины для нефтедобывающей компании) / [Oil company modelling](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Oil-company-modelling)
 - Прототип модели машинного обучения для промышленного предприятия / [Gold recovery](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Gold-recovery)
 - Защита персональных данных / [Linear Algebra](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Linear%20Algebra)
+- Определение стоимости автомобилей / [Car prices](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Car%20prices)
 
 
 ### Аннотация
@@ -44,3 +45,9 @@
 
 Предложите алгоритм преобразования данных для решения задачи.
 Обоснуйте, почему качество линейной регрессии не поменяется. Запрограммируйте этот алгоритм, применив матричные операции. Проверьте, что качество линейной регрессии из sklearn не отличается до и после преобразования. Примените метрику R2.
+
+
+[Car prices](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Car%20prices)
+<br>Yужно построить модель для определения стоимости автомобилей по историческим данным: технические характеристики, комплектации и цены автомобилей.
+
+Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля.
