@@ -9,6 +9,7 @@
 - Прототип модели машинного обучения для промышленного предприятия / [Gold recovery](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Gold-recovery)
 - Защита персональных данных / [Linear Algebra](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Linear%20Algebra)
 - Определение стоимости автомобилей / [Car prices](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Car%20prices)
+- Выпускной проект / [Final project](https://github.com/Iurii-Ermakov/Yandex-Praktikum/tree/ermakovls/Final%20project)
 
 
 ### Аннотация
